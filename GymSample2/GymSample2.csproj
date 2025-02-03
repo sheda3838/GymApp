@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{64327470-8059-47BC-9290-3B73CEA1D1D4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GymSample2</RootNamespace>
+    <AssemblyName>GymSample2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminHomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminHomePage.Designer.cs">
+      <DependentUpon>AdminHomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminSignIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminSignIn.Designer.cs">
+      <DependentUpon>AdminSignIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminViewOneClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminViewOneClass.Designer.cs">
+      <DependentUpon>AdminViewOneClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminViewOneMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminViewOneMember.Designer.cs">
+      <DependentUpon>AdminViewOneMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminViewOneTrainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminViewOneTrainer.Designer.cs">
+      <DependentUpon>AdminViewOneTrainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attendance.cs" />
+    <Compile Include="AttendanceManager.cs" />
+    <Compile Include="Classes.cs" />
+    <Compile Include="ClassManager.cs" />
+    <Compile Include="MemberManager.cs" />
+    <Compile Include="TrainerCreateClassForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrainerCreateClassForm.Designer.cs">
+      <DependentUpon>TrainerCreateClassForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseHelper.cs" />
+    <Compile Include="TrainerDeleteMemberFromClassForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrainerDeleteMemberFromClassForm.Designer.cs">
+      <DependentUpon>TrainerDeleteMemberFromClassForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrainerManager.cs" />
+    <Compile Include="TrainerMarkAttendanceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrainerMarkAttendanceForm.Designer.cs">
+      <DependentUpon>TrainerMarkAttendanceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemberAttendanceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberAttendanceForm.Designer.cs">
+      <DependentUpon>MemberAttendanceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TrainerUpdateClassForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrainerUpdateClassForm.Designer.cs">
+      <DependentUpon>TrainerUpdateClassForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Member.cs" />
+    <Compile Include="MembersHomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MembersHomePage.Designer.cs">
+      <DependentUpon>MembersHomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemberJoinClassesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberJoinClassesForm.Designer.cs">
+      <DependentUpon>MemberJoinClassesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrainersHomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrainersHomePage.Designer.cs">
+      <DependentUpon>TrainersHomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminViewAllAttendances.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminViewAllAttendances.Designer.cs">
+      <DependentUpon>AdminViewAllAttendances.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminViewAllClasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminViewAllClasses.Designer.cs">
+      <DependentUpon>AdminViewAllClasses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminViewAllMembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminViewAllMembers.Designer.cs">
+      <DependentUpon>AdminViewAllMembers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminViewAllTrainers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminViewAllTrainers.Designer.cs">
+      <DependentUpon>AdminViewAllTrainers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemberViewEnrolledClassesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberViewEnrolledClassesForm.Designer.cs">
+      <DependentUpon>MemberViewEnrolledClassesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemberViewProfileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberViewProfileForm.Designer.cs">
+      <DependentUpon>MemberViewProfileForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemberSigninForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberSigninForm.Designer.cs">
+      <DependentUpon>MemberSigninForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemberSignUpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberSignUpForm.Designer.cs">
+      <DependentUpon>MemberSignUpForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MySqlConnection.cs" />
+    <Compile Include="MySqlConnection1.cs" />
+    <Compile Include="Person.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Trainer.cs" />
+    <Compile Include="TrainerViewCreatedClassForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrainerViewCreatedClassForm.Designer.cs">
+      <DependentUpon>TrainerViewCreatedClassForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrainerViewProfileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrainerViewProfileForm.Designer.cs">
+      <DependentUpon>TrainerViewProfileForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrainerSignInForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrainerSignInForm.Designer.cs">
+      <DependentUpon>TrainerSignInForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrainerSignUpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrainerSignUpForm.Designer.cs">
+      <DependentUpon>TrainerSignUpForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemberUpdateProfileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberUpdateProfileForm.Designer.cs">
+      <DependentUpon>MemberUpdateProfileForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrainerUpdateProfileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrainerUpdateProfileForm.Designer.cs">
+      <DependentUpon>TrainerUpdateProfileForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminHomePage.resx">
+      <DependentUpon>AdminHomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminSignIn.resx">
+      <DependentUpon>AdminSignIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminViewOneClass.resx">
+      <DependentUpon>AdminViewOneClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminViewOneMember.resx">
+      <DependentUpon>AdminViewOneMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminViewOneTrainer.resx">
+      <DependentUpon>AdminViewOneTrainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrainerCreateClassForm.resx">
+      <DependentUpon>TrainerCreateClassForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrainerDeleteMemberFromClassForm.resx">
+      <DependentUpon>TrainerDeleteMemberFromClassForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrainerMarkAttendanceForm.resx">
+      <DependentUpon>TrainerMarkAttendanceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberAttendanceForm.resx">
+      <DependentUpon>MemberAttendanceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MembersHomePage.resx">
+      <DependentUpon>MembersHomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberJoinClassesForm.resx">
+      <DependentUpon>MemberJoinClassesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrainersHomePage.resx">
+      <DependentUpon>TrainersHomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrainerUpdateClassForm.resx">
+      <DependentUpon>TrainerUpdateClassForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminViewAllAttendances.resx">
+      <DependentUpon>AdminViewAllAttendances.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminViewAllClasses.resx">
+      <DependentUpon>AdminViewAllClasses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminViewAllMembers.resx">
+      <DependentUpon>AdminViewAllMembers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminViewAllTrainers.resx">
+      <DependentUpon>AdminViewAllTrainers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberViewEnrolledClassesForm.resx">
+      <DependentUpon>MemberViewEnrolledClassesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberViewProfileForm.resx">
+      <DependentUpon>MemberViewProfileForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberSigninForm.resx">
+      <DependentUpon>MemberSigninForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberSignUpForm.resx">
+      <DependentUpon>MemberSignUpForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrainerViewCreatedClassForm.resx">
+      <DependentUpon>TrainerViewCreatedClassForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrainerViewProfileForm.resx">
+      <DependentUpon>TrainerViewProfileForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrainerSignInForm.resx">
+      <DependentUpon>TrainerSignInForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrainerSignUpForm.resx">
+      <DependentUpon>TrainerSignUpForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberUpdateProfileForm.resx">
+      <DependentUpon>MemberUpdateProfileForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrainerUpdateProfileForm.resx">
+      <DependentUpon>TrainerUpdateProfileForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GYMlogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MemberSIgninImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UsernameIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PasswordIcon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrainerrSIgninImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GYMlogo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Membericon-.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Trainericon-.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GoBakcBtnIcon1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GoBakcBtnIcon-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrainerrSIgninImage1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Create class icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Trainer my classes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled_design__1_-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\join-button-3d-icon-download-in-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit-button-simple-vector-illust-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10629681-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-vector-edit-profile-icon-png-image_4102545-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14725761-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled_design-removebg-preview %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled_design__1_-removebg-preview %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\683c969bf2e29f76fb4789b6958327ff-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\All classes icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled_design-removebg-preview %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Trainer my classes1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled_design-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-cartoon-muscle-man-on-a-white-background-vector-png-image_6835168-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled_design-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\683c969bf2e29f76fb4789b6958327ff-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fit-cartoon-character-training_2-removebg-preview.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

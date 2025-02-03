@@ -1,0 +1,1203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kamil\\source\\repos\\GymSample2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\trainersignupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\trainersignupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\membersignupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\membersignupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\trainersignupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\trainersignupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\membersignupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\membersignupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|c:\\users\\kamil\\source\\repos\\gymsample2\\gymsample2\\classmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\classmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\trainerupdateclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\trainerupdateclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\trainerupdateclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\trainerupdateclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\trainerupdateprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\trainerupdateprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\trainerviewcreatedclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\trainerviewcreatedclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\trainerviewcreatedclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\trainerviewcreatedclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\trainermarkattendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\trainermarkattendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\memberjoinclassesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\memberjoinclassesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\trainercreateclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\trainercreateclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\trainercreateclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\trainercreateclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\memberattendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\memberattendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\memberattendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\memberattendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\adminviewonemember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\adminviewonemember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\adminviewonemember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\adminviewonemember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\trainershomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\trainershomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\memberviewenrolledclassesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\memberviewenrolledclassesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\memberviewenrolledclassesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\memberviewenrolledclassesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\membermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\membermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\memberjoinclassesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\memberjoinclassesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\adminviewoneclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\adminviewoneclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\adminviewoneclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\adminviewoneclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\attendancemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\attendancemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\trainermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\trainermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\adminviewallclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\adminviewallclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\adminviewallclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\adminviewallclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\trainerdeletememberfromclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\trainerdeletememberfromclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\trainerdeletememberfromclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\trainerdeletememberfromclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\adminviewonetrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\adminviewonetrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\adminviewonetrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\adminviewonetrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\trainerupdateprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\trainerupdateprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\adminviewalltrainers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\adminviewalltrainers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\trainerviewprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\trainerviewprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\trainerviewprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\trainerviewprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\adminviewalltrainers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\adminviewalltrainers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\adminviewallmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\adminviewallmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\adminviewallmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\adminviewallmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\memberviewprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\memberviewprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\memberviewprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\memberviewprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\memberupdateprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\memberupdateprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\adminsignin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\adminsignin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\adminsignin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\adminsignin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\adminviewallattendances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\adminviewallattendances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\trainersigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\trainersigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\trainersigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\trainersigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\membershomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\membershomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\membersigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\membersigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\membersigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\membersigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\adminhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\adminhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\adminhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\adminhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\membershomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\membershomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kamil\\AppData\\Local\\Temp\\3huty043..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\trainermarkattendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\trainermarkattendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\adminviewallattendances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\adminviewallattendances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kamil\\AppData\\Local\\Temp\\kkoqxykf..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\mysqlconnection1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\mysqlconnection1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\trainershomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\trainershomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kamil\\AppData\\Local\\Temp\\o0zt1ecr..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kamil\\AppData\\Local\\Temp\\1nkroz0j..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\trainersignupform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\trainersignupform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|C:\\Users\\kamil\\source\\repos\\GymSample2\\gymsample2\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64327470-8059-47BC-9290-3B73CEA1D1D4}|GymSample2\\GymSample2.csproj|solutionrelative:gymsample2\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kamil\\AppData\\Local\\Temp\\mqqkfugv..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberSignUpForm.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberSignUpForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\MemberSignUpForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberSignUpForm.cs",
+              "RelativeToolTip": "GymSample2\\MemberSignUpForm.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwGcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T02:56:36.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrainerSignUpForm.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerSignUpForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\TrainerSignUpForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerSignUpForm.cs",
+              "RelativeToolTip": "GymSample2\\TrainerSignUpForm.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwGgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T05:46:19.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\HomePage.cs",
+              "RelativeDocumentMoniker": "GymSample2\\HomePage.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\HomePage.cs [Design]",
+              "RelativeToolTip": "GymSample2\\HomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T15:10:01.158Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrainerSignUpForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerSignUpForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\TrainerSignUpForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerSignUpForm.cs [Design]",
+              "RelativeToolTip": "GymSample2\\TrainerSignUpForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T05:43:33.306Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemberSignUpForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberSignUpForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\MemberSignUpForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberSignUpForm.cs [Design]",
+              "RelativeToolTip": "GymSample2\\MemberSignUpForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T02:48:53.704Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassManager.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\ClassManager.cs",
+              "RelativeDocumentMoniker": "GymSample2\\ClassManager.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\ClassManager.cs",
+              "RelativeToolTip": "GymSample2\\ClassManager.cs",
+              "ViewState": "AgIAABMCAAAAAAAAAAAAwBgCAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:58:52.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "GymSample2\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\DatabaseHelper.cs",
+              "RelativeToolTip": "GymSample2\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T02:42:54.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\HomePage.cs",
+              "RelativeDocumentMoniker": "GymSample2\\HomePage.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\HomePage.cs",
+              "RelativeToolTip": "GymSample2\\HomePage.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T15:11:39.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TrainerUpdateClassForm.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerUpdateClassForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\TrainerUpdateClassForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerUpdateClassForm.cs",
+              "RelativeToolTip": "GymSample2\\TrainerUpdateClassForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:59:35.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TrainerUpdateClassForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerUpdateClassForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\TrainerUpdateClassForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerUpdateClassForm.cs [Design]",
+              "RelativeToolTip": "GymSample2\\TrainerUpdateClassForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:57:05.68Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TrainerUpdateProfileForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerUpdateProfileForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\TrainerUpdateProfileForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerUpdateProfileForm.cs [Design]",
+              "RelativeToolTip": "GymSample2\\TrainerUpdateProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T19:09:59.978Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TrainerViewCreatedClassForm.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerViewCreatedClassForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\TrainerViewCreatedClassForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerViewCreatedClassForm.cs",
+              "RelativeToolTip": "GymSample2\\TrainerViewCreatedClassForm.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAowNoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:12:57.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MemberJoinClassesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberJoinClassesForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\MemberJoinClassesForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberJoinClassesForm.cs [Design]",
+              "RelativeToolTip": "GymSample2\\MemberJoinClassesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:25:32.355Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TrainerViewCreatedClassForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerViewCreatedClassForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\TrainerViewCreatedClassForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerViewCreatedClassForm.cs [Design]",
+              "RelativeToolTip": "GymSample2\\TrainerViewCreatedClassForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:12:07.156Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TrainerMarkAttendanceForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerMarkAttendanceForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\TrainerMarkAttendanceForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerMarkAttendanceForm.cs [Design]",
+              "RelativeToolTip": "GymSample2\\TrainerMarkAttendanceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:43:51.152Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TrainerCreateClassForm.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerCreateClassForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\TrainerCreateClassForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerCreateClassForm.cs",
+              "RelativeToolTip": "GymSample2\\TrainerCreateClassForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:41:50.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TrainerCreateClassForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerCreateClassForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\TrainerCreateClassForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerCreateClassForm.cs [Design]",
+              "RelativeToolTip": "GymSample2\\TrainerCreateClassForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:40:39.905Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\Program.cs",
+              "RelativeDocumentMoniker": "GymSample2\\Program.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\Program.cs",
+              "RelativeToolTip": "GymSample2\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:10:34.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminViewOneMember.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewOneMember.cs",
+              "RelativeDocumentMoniker": "GymSample2\\AdminViewOneMember.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewOneMember.cs [Design]",
+              "RelativeToolTip": "GymSample2\\AdminViewOneMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:37:28.786Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MemberAttendanceForm.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberAttendanceForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\MemberAttendanceForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberAttendanceForm.cs",
+              "RelativeToolTip": "GymSample2\\MemberAttendanceForm.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:44:10.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MemberAttendanceForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberAttendanceForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\MemberAttendanceForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberAttendanceForm.cs [Design]",
+              "RelativeToolTip": "GymSample2\\MemberAttendanceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:42:08.332Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminViewOneMember.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewOneMember.cs",
+              "RelativeDocumentMoniker": "GymSample2\\AdminViewOneMember.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewOneMember.cs",
+              "RelativeToolTip": "GymSample2\\AdminViewOneMember.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwE0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:39:41.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\Trainer.cs",
+              "RelativeDocumentMoniker": "GymSample2\\Trainer.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\Trainer.cs",
+              "RelativeToolTip": "GymSample2\\Trainer.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA9wFEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T02:15:28.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\Member.cs",
+              "RelativeDocumentMoniker": "GymSample2\\Member.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\Member.cs",
+              "RelativeToolTip": "GymSample2\\Member.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T10:50:59.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\Person.cs",
+              "RelativeDocumentMoniker": "GymSample2\\Person.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\Person.cs",
+              "RelativeToolTip": "GymSample2\\Person.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAswFwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T01:59:50.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MemberViewEnrolledClassesForm.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberViewEnrolledClassesForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\MemberViewEnrolledClassesForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberViewEnrolledClassesForm.cs",
+              "RelativeToolTip": "GymSample2\\MemberViewEnrolledClassesForm.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAIAxwDwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:00:42.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MemberViewEnrolledClassesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberViewEnrolledClassesForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\MemberViewEnrolledClassesForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberViewEnrolledClassesForm.cs [Design]",
+              "RelativeToolTip": "GymSample2\\MemberViewEnrolledClassesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:00:10.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TrainersHomePage.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainersHomePage.cs",
+              "RelativeDocumentMoniker": "GymSample2\\TrainersHomePage.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainersHomePage.cs",
+              "RelativeToolTip": "GymSample2\\TrainersHomePage.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAewEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:17:52.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MemberManager.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberManager.cs",
+              "RelativeDocumentMoniker": "GymSample2\\MemberManager.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberManager.cs",
+              "RelativeToolTip": "GymSample2\\MemberManager.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwNkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:16:57.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MemberJoinClassesForm.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberJoinClassesForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\MemberJoinClassesForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberJoinClassesForm.cs",
+              "RelativeToolTip": "GymSample2\\MemberJoinClassesForm.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAASwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:25:53.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdminViewOneClass.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewOneClass.cs",
+              "RelativeDocumentMoniker": "GymSample2\\AdminViewOneClass.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewOneClass.cs",
+              "RelativeToolTip": "GymSample2\\AdminViewOneClass.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAhwDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T03:43:20.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminViewOneClass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewOneClass.cs",
+              "RelativeDocumentMoniker": "GymSample2\\AdminViewOneClass.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewOneClass.cs [Design]",
+              "RelativeToolTip": "GymSample2\\AdminViewOneClass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T03:42:57.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AttendanceManager.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AttendanceManager.cs",
+              "RelativeDocumentMoniker": "GymSample2\\AttendanceManager.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AttendanceManager.cs",
+              "RelativeToolTip": "GymSample2\\AttendanceManager.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAkwLIAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:08:58.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TrainerManager.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerManager.cs",
+              "RelativeDocumentMoniker": "GymSample2\\TrainerManager.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerManager.cs",
+              "RelativeToolTip": "GymSample2\\TrainerManager.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAowMEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:44:44.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\Attendance.cs",
+              "RelativeDocumentMoniker": "GymSample2\\Attendance.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\Attendance.cs",
+              "RelativeToolTip": "GymSample2\\Attendance.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswEsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:53:05.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\Classes.cs",
+              "RelativeDocumentMoniker": "GymSample2\\Classes.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\Classes.cs",
+              "RelativeToolTip": "GymSample2\\Classes.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv1oAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:06:26.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminViewAllClasses.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewAllClasses.cs",
+              "RelativeDocumentMoniker": "GymSample2\\AdminViewAllClasses.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewAllClasses.cs",
+              "RelativeToolTip": "GymSample2\\AdminViewAllClasses.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T05:32:14.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AdminViewAllClasses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewAllClasses.cs",
+              "RelativeDocumentMoniker": "GymSample2\\AdminViewAllClasses.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewAllClasses.cs [Design]",
+              "RelativeToolTip": "GymSample2\\AdminViewAllClasses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T05:28:32.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TrainerDeleteMemberFromClassForm.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerDeleteMemberFromClassForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\TrainerDeleteMemberFromClassForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerDeleteMemberFromClassForm.cs",
+              "RelativeToolTip": "GymSample2\\TrainerDeleteMemberFromClassForm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswCgAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:57:29.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TrainerDeleteMemberFromClassForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerDeleteMemberFromClassForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\TrainerDeleteMemberFromClassForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerDeleteMemberFromClassForm.cs [Design]",
+              "RelativeToolTip": "GymSample2\\TrainerDeleteMemberFromClassForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:55:23.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AdminViewAllTrainers.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewAllTrainers.cs",
+              "RelativeDocumentMoniker": "GymSample2\\AdminViewAllTrainers.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewAllTrainers.cs",
+              "RelativeToolTip": "GymSample2\\AdminViewAllTrainers.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwFQAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T02:47:18.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AdminViewOneTrainer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewOneTrainer.cs",
+              "RelativeDocumentMoniker": "GymSample2\\AdminViewOneTrainer.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewOneTrainer.cs [Design]",
+              "RelativeToolTip": "GymSample2\\AdminViewOneTrainer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T05:08:12.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AdminViewOneTrainer.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewOneTrainer.cs",
+              "RelativeDocumentMoniker": "GymSample2\\AdminViewOneTrainer.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewOneTrainer.cs",
+              "RelativeToolTip": "GymSample2\\AdminViewOneTrainer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAcwEMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T05:14:20.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TrainerUpdateProfileForm.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerUpdateProfileForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\TrainerUpdateProfileForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerUpdateProfileForm.cs",
+              "RelativeToolTip": "GymSample2\\TrainerUpdateProfileForm.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDkAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T19:10:02.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "TrainerViewProfileForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerViewProfileForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\TrainerViewProfileForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerViewProfileForm.cs [Design]",
+              "RelativeToolTip": "GymSample2\\TrainerViewProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T15:27:41.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AdminViewAllTrainers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewAllTrainers.cs",
+              "RelativeDocumentMoniker": "GymSample2\\AdminViewAllTrainers.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewAllTrainers.cs [Design]",
+              "RelativeToolTip": "GymSample2\\AdminViewAllTrainers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T02:46:38.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TrainerViewProfileForm.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerViewProfileForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\TrainerViewProfileForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerViewProfileForm.cs",
+              "RelativeToolTip": "GymSample2\\TrainerViewProfileForm.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA0wFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T15:39:26.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AdminViewAllMembers.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewAllMembers.cs",
+              "RelativeDocumentMoniker": "GymSample2\\AdminViewAllMembers.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewAllMembers.cs",
+              "RelativeToolTip": "GymSample2\\AdminViewAllMembers.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwEYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T02:09:50.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AdminViewAllMembers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewAllMembers.cs",
+              "RelativeDocumentMoniker": "GymSample2\\AdminViewAllMembers.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewAllMembers.cs [Design]",
+              "RelativeToolTip": "GymSample2\\AdminViewAllMembers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T02:08:32.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MemberViewProfileForm.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberViewProfileForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\MemberViewProfileForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberViewProfileForm.cs",
+              "RelativeToolTip": "GymSample2\\MemberViewProfileForm.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAcwH8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T15:02:13.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MemberViewProfileForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberViewProfileForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\MemberViewProfileForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberViewProfileForm.cs [Design]",
+              "RelativeToolTip": "GymSample2\\MemberViewProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T15:00:25.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MemberUpdateProfileForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberUpdateProfileForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\MemberUpdateProfileForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberUpdateProfileForm.cs [Design]",
+              "RelativeToolTip": "GymSample2\\MemberUpdateProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T16:02:27.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AdminSignIn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminSignIn.cs",
+              "RelativeDocumentMoniker": "GymSample2\\AdminSignIn.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminSignIn.cs [Design]",
+              "RelativeToolTip": "GymSample2\\AdminSignIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:29:16.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AdminSignIn.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminSignIn.cs",
+              "RelativeDocumentMoniker": "GymSample2\\AdminSignIn.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminSignIn.cs",
+              "RelativeToolTip": "GymSample2\\AdminSignIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:39:35.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AdminViewAllAttendances.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewAllAttendances.cs",
+              "RelativeDocumentMoniker": "GymSample2\\AdminViewAllAttendances.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewAllAttendances.cs",
+              "RelativeToolTip": "GymSample2\\AdminViewAllAttendances.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAD4vx0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T10:46:56.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TrainerSignInForm.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerSignInForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\TrainerSignInForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerSignInForm.cs",
+              "RelativeToolTip": "GymSample2\\TrainerSignInForm.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T08:35:33.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "TrainerSignInForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerSignInForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\TrainerSignInForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerSignInForm.cs [Design]",
+              "RelativeToolTip": "GymSample2\\TrainerSignInForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T08:34:48.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "MembersHomePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MembersHomePage.cs",
+              "RelativeDocumentMoniker": "GymSample2\\MembersHomePage.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MembersHomePage.cs [Design]",
+              "RelativeToolTip": "GymSample2\\MembersHomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:04:11.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "MemberSigninForm.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberSigninForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\MemberSigninForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberSigninForm.cs",
+              "RelativeToolTip": "GymSample2\\MemberSigninForm.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAUwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T04:48:58.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "MemberSigninForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberSigninForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\MemberSigninForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MemberSigninForm.cs [Design]",
+              "RelativeToolTip": "GymSample2\\MemberSigninForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:22:44.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AdminHomePage.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminHomePage.cs",
+              "RelativeDocumentMoniker": "GymSample2\\AdminHomePage.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminHomePage.cs",
+              "RelativeToolTip": "GymSample2\\AdminHomePage.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAArwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T05:36:58.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AdminHomePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminHomePage.cs",
+              "RelativeDocumentMoniker": "GymSample2\\AdminHomePage.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminHomePage.cs [Design]",
+              "RelativeToolTip": "GymSample2\\AdminHomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T05:35:58.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "MembersHomePage.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MembersHomePage.cs",
+              "RelativeDocumentMoniker": "GymSample2\\MembersHomePage.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MembersHomePage.cs",
+              "RelativeToolTip": "GymSample2\\MembersHomePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:05:16.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "3huty043..sql",
+              "DocumentMoniker": "C:\\Users\\kamil\\AppData\\Local\\Temp\\3huty043..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\3huty043..sql",
+              "ToolTip": "C:\\Users\\kamil\\AppData\\Local\\Temp\\3huty043..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\3huty043..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-24T17:35:34.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "TrainerMarkAttendanceForm.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerMarkAttendanceForm.cs",
+              "RelativeDocumentMoniker": "GymSample2\\TrainerMarkAttendanceForm.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerMarkAttendanceForm.cs",
+              "RelativeToolTip": "GymSample2\\TrainerMarkAttendanceForm.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:06:38.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AdminViewAllAttendances.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewAllAttendances.cs",
+              "RelativeDocumentMoniker": "GymSample2\\AdminViewAllAttendances.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\AdminViewAllAttendances.cs [Design]",
+              "RelativeToolTip": "GymSample2\\AdminViewAllAttendances.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T09:59:53.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "kkoqxykf..sql",
+              "DocumentMoniker": "C:\\Users\\kamil\\AppData\\Local\\Temp\\kkoqxykf..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\kkoqxykf..sql",
+              "ToolTip": "C:\\Users\\kamil\\AppData\\Local\\Temp\\kkoqxykf..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\kkoqxykf..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-23T07:12:57.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "MySqlConnection1.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MySqlConnection1.cs",
+              "RelativeDocumentMoniker": "GymSample2\\MySqlConnection1.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\MySqlConnection1.cs",
+              "RelativeToolTip": "GymSample2\\MySqlConnection1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:11:40.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "TrainersHomePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainersHomePage.cs",
+              "RelativeDocumentMoniker": "GymSample2\\TrainersHomePage.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainersHomePage.cs [Design]",
+              "RelativeToolTip": "GymSample2\\TrainersHomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:17:26.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "o0zt1ecr..sql",
+              "DocumentMoniker": "C:\\Users\\kamil\\AppData\\Local\\Temp\\o0zt1ecr..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\o0zt1ecr..sql",
+              "ToolTip": "C:\\Users\\kamil\\AppData\\Local\\Temp\\o0zt1ecr..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\o0zt1ecr..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-18T02:10:36.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "1nkroz0j..sql",
+              "DocumentMoniker": "C:\\Users\\kamil\\AppData\\Local\\Temp\\1nkroz0j..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\1nkroz0j..sql",
+              "ToolTip": "C:\\Users\\kamil\\AppData\\Local\\Temp\\1nkroz0j..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\1nkroz0j..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-17T04:52:08.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "GymSample2\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\Properties\\Resources.resx",
+              "RelativeToolTip": "GymSample2\\Properties\\Resources.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswLoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-16T13:55:27.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "TrainerSignUpForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerSignUpForm.Designer.cs",
+              "RelativeDocumentMoniker": "GymSample2\\TrainerSignUpForm.Designer.cs",
+              "ToolTip": "C:\\Users\\kamil\\source\\repos\\GymSample2\\GymSample2\\TrainerSignUpForm.Designer.cs",
+              "RelativeToolTip": "GymSample2\\TrainerSignUpForm.Designer.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAAwAoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:57:37.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "mqqkfugv..sql",
+              "DocumentMoniker": "C:\\Users\\kamil\\AppData\\Local\\Temp\\mqqkfugv..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\mqqkfugv..sql",
+              "ToolTip": "C:\\Users\\kamil\\AppData\\Local\\Temp\\mqqkfugv..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\mqqkfugv..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-13T11:12:31.265Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
