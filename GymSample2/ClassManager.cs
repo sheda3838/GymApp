@@ -13,56 +13,57 @@ namespace GymSample2
 
         //  method to fetch classes by MemberID (view enrolled classes for members) 
         public static List<Classes> GetClassesByUserID(int userID)
-        {
-            try
-            {
-                List<Classes> classesList = new List<Classes>();
+ {
+     try
+     {
+         List<Classes> classesList = new List<Classes>();
 
-                using (var connection = new DatabaseHelper().Connect())
-                {
-                    connection.Open();
+         using (var connection = new DatabaseHelper().Connect())
+         {
+             connection.Open();
 
-                    string query = @"SELECT Classes.ClassID, Classes.ClassName, Classes.Description, Classes.Date, Classes.MaxParticipants, Classes.TrainerID, 
-                               (SELECT COUNT(*) FROM ClassParticipants WHERE ClassID = Classes.ClassID) AS CurrentParticipants
-                        FROM Classes
-                        INNER JOIN ClassParticipants ON Classes.ClassID = ClassParticipants.ClassID
-                        WHERE ClassParticipants.MemberID = @MemberID";
-                    using (var cmd = new SqlCommand(query, connection))
-                    {
-                        cmd.Parameters.AddWithValue("@MemberID", userID);
+             string query = @"SELECT Classes.ClassID, Classes.ClassName, Classes.Description, Classes.Date, Classes.MaxParticipants, Classes.TrainerID, 
+                        (SELECT COUNT(*) FROM ClassParticipants WHERE ClassID = Classes.ClassID) AS CurrentParticipants
+                 FROM Classes
+                 INNER JOIN ClassParticipants ON Classes.ClassID = ClassParticipants.ClassID
+                 WHERE ClassParticipants.MemberID = @MemberID AND Date >= @currentDate";
+             using (var cmd = new SqlCommand(query, connection))
+             {
+                 cmd.Parameters.AddWithValue("@MemberID", userID);
+                 cmd.Parameters.AddWithValue("@currentDate", DateTime.Now.Date); // Use current date for the filter
 
-                        using (var reader = cmd.ExecuteReader())
-                        {
-                            while (reader.Read())  //The while (reader.Read()) loop iterates through each row in the result set.
-                            {
-                                Classes userclass = new Classes(
-                                    reader["ClassName"].ToString(),
-                                    reader["Description"].ToString(),
-                                    Convert.ToInt32(reader["TrainerID"]),
-                                    Convert.ToDateTime(reader["Date"]),
-                                    Convert.ToInt32(reader["MaxParticipants"])
-                                )
-                                {
-                                    ClassID = Convert.ToInt32(reader["ClassID"]),
-                                    CurrentParticipants = Convert.ToInt32(reader["CurrentParticipants"]) // Set the current participants
 
-                                };
+                 using (var reader = cmd.ExecuteReader())
+                 {
+                     while (reader.Read())  //The while (reader.Read()) loop iterates through each row in the result set.
+                     {
+                         Classes userclass = new Classes(
+                             reader["ClassName"].ToString(),
+                             reader["Description"].ToString(),
+                             Convert.ToInt32(reader["TrainerID"]),
+                             Convert.ToDateTime(reader["Date"]),
+                             Convert.ToInt32(reader["MaxParticipants"])
+                         )
+                         {
+                             ClassID = Convert.ToInt32(reader["ClassID"]),
+                             CurrentParticipants = Convert.ToInt32(reader["CurrentParticipants"]) // Set the current participants
 
-                                classesList.Add(userclass);
-                            }
-                        }
-                    }
-                }
+                         };
 
-                return classesList;
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                return null;
-            }
-        }
+                         classesList.Add(userclass);
+                     }
+                 }
+             }
+         }
 
+         return classesList;
+     }
+     catch (Exception ex)
+     {
+         MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+         return null;
+     }
+ }
 
 
         //  method to fetch classes by TrainerID (view created classes for trainer, also used in member to get favourite trainer classes) 
